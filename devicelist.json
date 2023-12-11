@@ -1,3 +1,11 @@
-{
-    "name": "r5x"
-}
+[
+  {
+    "name": "r5x",
+  },
+  {
+    "name": "pixel",
+  },
+  {
+    "name": "iphone",
+  },
+]
