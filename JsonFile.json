@@ -2,7 +2,7 @@
 	"response": [
 		{
 			"maintainer": "mh22584",
-			"oem": "Test 16.200",
+			"oem": "Test 16.2",
 			"device": "lemonadep",
 			"filename": "Matrixx-v10.0-Official-lemonadep-Gapps-20231210-ota.zip",
 			"download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.0-Official-lemonadep-Gapps-20231210-ota.zip/download",
@@ -10,7 +10,7 @@
 			"md5": "4f4fa10d366a63ec23ee820141fa1",
 			"sha256": "7f106e4a0c7f01100ee6be5f133f2b0ae9a4d04162d3fda47c1e653e889e68fa",
 			"size": 1877631468,
-			"version": "10.16",
+			"version": "10.5",
 			"buildtype": "Official",
 			"forum": "https://xdaforums.com/t/rom-a14-op9pro-matrixx-v10-0-beta-5-gapps-03-12-2023.4611417/page-8#post-89198650",
 			"gapps": "",
